@@ -60,9 +60,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-orange rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-orange rounded-lg  hover:text-orange">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-orange">
+            <div class=" flex flex-col justify-center items-center md:w-1/2 ">
               <p class="font-playfair font-semibold text-5xl ">01</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">HTML</p>
             </div>
@@ -86,9 +86,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-blue rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-blue rounded-lg  hover:text-deep-blue">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-deep-blue">
+            <div class=" flex flex-col justify-center items-center md:w-1/2 ">
               <p class="font-playfair font-semibold text-5xl ">02</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">CSS</p>
             </div>
@@ -111,9 +111,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-bright-yellow rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-bright-yellow rounded-lg  hover:text-bright-yellow">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-bright-yellow">
+            <div class=" flex flex-col justify-center items-center md:w-1/2 ">
               <p class="font-playfair font-semibold text-5xl ">03</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">Javascript</p>
             </div>
@@ -137,9 +137,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-blue rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-blue rounded-lg hover:text-deep-blue">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-deep-blue">
+            <div class=" flex flex-col justify-center items-center md:w-1/2 ">
               <p class="font-playfair font-semibold text-5xl ">04</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">React</p>
             </div>
@@ -162,9 +162,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-green rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-green rounded-lg hover:text-green">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-green">
+            <div class=" flex flex-col justify-center items-center md:w-1/2 ">
               <p class="font-playfair font-semibold text-5xl ">05</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">NodeJS</p>
             </div>
@@ -186,9 +186,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-blue rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-blue rounded-lg hover:text-deep-blue">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-deep-blue">
+            <div class=" flex flex-col justify-center items-center md:w-1/2  ">
               <p class="font-playfair font-semibold text-5xl ">06</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">Tailwind</p>
             </div>
@@ -213,9 +213,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2  shadow-md shadow-green rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2  shadow-md shadow-green rounded-lg hover:text-green">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-green">
+            <div class=" flex flex-col justify-center items-center md:w-1/2  ">
               <p class="font-playfair font-semibold text-5xl ">07</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">MongoDB</p>
             </div>
@@ -238,9 +238,9 @@ const MySkills = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-white rounded-lg">
+          <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-white rounded-lg hover:text-black">
 
-            <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-black">
+            <div class=" flex flex-col justify-center items-center md:w-1/2  ">
               <p class="font-playfair font-semibold text-5xl ">08</p>
               <p class="font-playfair font-semibold text-3xl mt-3  ">Github</p>
             </div>
@@ -266,9 +266,9 @@ const MySkills = () => {
           }}
         >
           <a href="../assets/excellence.pdf" target="_blank">
-            <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-yellow rounded-lg">
+            <div class="flex bg-gradient-rainblue p-8 hover:scale-105 duration-500 py-2 shadow-md shadow-yellow rounded-lg hover:text-yellow">
 
-              <div class=" flex flex-col justify-center items-center md:w-1/2  hover:text-yellow">
+              <div class=" flex flex-col justify-center items-center md:w-1/2  ">
                 <p class="font-playfair font-semibold text-5xl ">09</p>
                 <p class="font-playfair font-semibold text-3xl mt-3  ">C++</p>
               </div>

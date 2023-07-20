@@ -68,7 +68,7 @@ const Projects = () => {
               <div className="bg-gradient-rainblue shadow-md shadow-black text-center hover:text-black p-4 rounded-lg ml-4 w-1/2 mt-2 hover:scale-105 duration-500 py-2">
                 <a
                   className="hover:opacity-50 transition duration-500"
-                  href="../assets/MYRESUME.pdf"
+                  href="https://github.com/PRAVEEN-DIXIT07/portfolio"
                   target="_blank"
                   rel="noreferrer"
                 >
